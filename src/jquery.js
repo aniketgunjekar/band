@@ -10,6 +10,7 @@ let cycleState = {//equals to initial power-state
 
 $( document ).ready(function() {
     //$("#slider").addClass("form-range");
+    document.getElementById("Heater_4_1").click(); //welcome ring
     document.getElementById('slider').classList.add('form-range');
     document.getElementById('display').classList.add('displayOn');
     document.getElementById('pswitch').classList.add('switchOn');
