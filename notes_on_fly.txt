@@ -1,0 +1,21 @@
+http://localhost:3000/
+
+create data base which is an array(or object whichever suits the situation) containing music names and associated key bindings
+
+music names can be used to access file path as well as display the items
+
+and key bindings can be used to display in pads elements and bind with respective keys stored in database.
+
+add audio objects in dataBase and access them such that they evaluate to src value;
+
+when you set the volume give volume access to display and setDisplay. setDisplay with volume info for a settimeout and back again display the previous display info. hint save the previous display info in a variable that can again be accessed after the setdiplay for volume times out;
+
+try accessing display history or add mouse click off event
+
+add timeout function to volume display feature or even better use onmouseout event trigger; -solved using regexp
+and connect the volume to sound output
+
+add event listeners to all the audio elements using for loop
+
+next do state management througn redux
+and connect react-redux;

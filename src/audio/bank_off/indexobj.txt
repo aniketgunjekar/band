@@ -1,0 +1,9 @@
+audio-1  bomb_explotion
+audio-2  bomb_impact
+audio-3  drum_bass
+audio-4  game_explotion
+audio-5  insect_buzzing
+audio-6  insect_laught
+audio-7  insect_scape
+audio-8  orchesteral_violine
+audio-9  trailer_horn
