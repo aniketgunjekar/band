@@ -123,8 +123,6 @@ function Drumpads({bank, power, dispatch, volume}) {
         if (e.keyCode == dataBase[i].keycode) {
           //handleClick(dataBase[i].key, dataBase[i][album]); [deprecated method with anamolies]
           document.getElementById(dataBase[i][album]).click();
-          document.getElementById(dataBase[i][album]).classList.remove("padOff");
-          document.getElementById(dataBase[i][album]).classList.add("padOn");
         }
       });
     }
