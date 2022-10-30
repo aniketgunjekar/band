@@ -131,7 +131,7 @@
     #drum-machine {
         flex-direction: column;
         width: 400px;
-        height: 600px;
+        height: 90%;
         padding-bottom: 20px;
     }
 
@@ -151,8 +151,8 @@
 @media screen and (min-width: 200px) and (max-width: 500px) {
     #drum-machine {
         flex-direction: column;
-        width: 350px;
-        height: 600px;
+        width: 95%;
+        height: 90%;
         padding-bottom: 20px;
     }
 
